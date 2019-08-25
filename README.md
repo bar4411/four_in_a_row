@@ -64,8 +64,7 @@ we pick  the best of them for the player.
 
 
 
-==================
-=  List of submitted files:  =
+List of submitted files: 
 ==================
 
 
