@@ -4,14 +4,14 @@ Ori Becher
 
 I did the exercise with: Bar Schwartz
 
-=============================
-=  README: Four in a Row =
-=============================
+
+README: Four in a Row
+======================
 
 usage: ex12.py
 
-==================
-=  Description:  =
+
+Description:
 ==================
 ex12 is about implementing connect 4 game with 2
 players connected one as a server and the other as
@@ -33,8 +33,8 @@ beween players.
 yields an ai move to the game if the player is an ai
 The algorithm works as explained in the following.
 
-==================
-=  Explanation to the ai algorithm:  =
+
+Explanation to the ai algorithm:
 ==================
 The ai works with the alpha beta pruning algorithm. the
 principle is backtracking along solutions tree. and picking
