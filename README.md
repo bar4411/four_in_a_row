@@ -2,9 +2,6 @@ Bar Schwartz
 Ori Becher
 
 
-I did the exercise with: Bar Schwartz
-
-
 README: Four in a Row
 ======================
 
