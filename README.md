@@ -5,12 +5,10 @@ Ori Becher
 README: Four in a Row
 ======================
 
-usage: ex12.py
-
 
 Description:
 ==================
-ex12 is about implementing connect 4 game with 2
+Implemention of a game of 2
 players connected one as a server and the other as
 client.
 
